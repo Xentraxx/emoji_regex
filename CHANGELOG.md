@@ -1,3 +1,7 @@
+## 0.0.6
+
+* keep up with npm emoji-regex 10.4.0
+
 ## 0.0.5
 
 * code fromat
