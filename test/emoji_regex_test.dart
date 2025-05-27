@@ -5,7 +5,6 @@ import 'package:emoji_regex/emoji_regex.dart';
 import 'emoji_test_text.dart';
 
 void main() {
-
   test('emojiRegex', () {
     final regex = emojiRegex();
     final matches = regex.allMatches(text);
